@@ -34,7 +34,7 @@
     "dist"
   ],
   "peerDependencies": {
-    "webpack": "^4.0.0"
+    "webpack": ">=4.0.0"
   },
   "dependencies": {
     "buffer-json": "^2.0.0",
